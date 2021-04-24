@@ -21,7 +21,7 @@ node bot.js
 - [x] Get the bot connecting to Discord, and responding to basic commands
 - [x] Randomly select questions from JSON
 - [ ] Use message reactions to read user responses
-- [ ] Create additionl test commands to test base functionality
+- [ ] Create additional test commands to test base functionality
 - [ ] Validate JSON files at run-time and alert users of incorrect JSON files
 - [ ] Use embeds to make output prettier and more useful
 - [ ] Implement base command set to play the game properly

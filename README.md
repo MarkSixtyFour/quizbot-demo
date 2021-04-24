@@ -2,7 +2,7 @@
 A simple Discord quiz/trivia bot created as an assignment for a class, CIT412 - Computer Simulation Applications. Note that this bot isn't yet feature-complete and is rather early-on in development. I haven't made such a program before and I wanted to give it a shot, my class project was a good opportunity.
 
 ## What does it do so far?
-So far, the bot can get questions at random from JSON files respond to a few test commands. It doesn't yet validate the JSON files so be careful when making new questions for the bot to read.
+So far, the bot can get questions at random from JSON files and respond to a few test commands. It doesn't yet validate the JSON files so be careful when making new questions for the bot to read.
 
 ## Required setup
 This bot must be self-hosted and doesn't include an API key. To run this bot, ensure you have NPM installed, along with all dependencies of the package. Make a new JSON file called `token.json` and put it in the bot's root directory, and ensure it has the following contents:

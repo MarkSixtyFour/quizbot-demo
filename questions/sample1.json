@@ -1,6 +1,6 @@
 {
     "question": "This is a web programming language popular in web browsers used to create this bot.",
-    "score": "100",
+    "score": 100,
     "responses": [
         "Python",
         "PHP",

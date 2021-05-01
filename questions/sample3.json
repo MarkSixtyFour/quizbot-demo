@@ -1,0 +1,11 @@
+{
+    "question": "How many assignments were due this weekend?",
+    "value": 250,
+    "responses": [
+        "Not enough",
+        "Three",
+        "One",
+        "Too many"
+    ],
+    "answer": "Too many"
+}

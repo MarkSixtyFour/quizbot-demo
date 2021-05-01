@@ -1,4 +1,4 @@
 {
     "prefix": "./",
-    "question_time": "1"
+    "questionTime": 60000
 }
